@@ -1,1 +1,1 @@
-https://teams.microsoft.com/l/meetup-join/19:rAUaHTrGEfGVN-y_g8suRErkkvFQf4mzQTMXKOc5XPY1@thread.tacv2/1635667502878?context=%7B%22Tid%22:%2217712ef8-7969-4f3b-973d-754e65ccee50%22,%22Oid%22:%22a9397417-1427-45c0-873c-f29a5b026db2%22%7D
+mongodb://root:root@cluster0-shard-00-00.cseew.mongodb.net:27017,cluster0-shard-00-01.cseew.mongodb.net:27017,cluster0-shard-00-02.cseew.mongodb.net:27017/myFirstDatabase?ssl=true&replicaSet=atlas-wavljh-shard-0&authSource=admin&retryWrites=true&w=majority
