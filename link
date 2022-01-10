@@ -1,1 +1,1 @@
-mongodb://root:root@cluster0-shard-00-00.cseew.mongodb.net:27017,cluster0-shard-00-01.cseew.mongodb.net:27017,cluster0-shard-00-02.cseew.mongodb.net:27017/myFirstDatabase?ssl=true&replicaSet=atlas-wavljh-shard-0&authSource=admin&retryWrites=true&w=majority
+https://docs.google.com/spreadsheets/d/1HCTAczKxh_5fILKoPzkWgUf8UGHvek3KjLXT7LNyGEo/edit?usp=sharing
